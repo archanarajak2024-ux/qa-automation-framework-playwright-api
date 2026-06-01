@@ -1,0 +1,23 @@
+{
+  "name": "qa-automation-framework-playwright-api",
+  "version": "1.0.0",
+  "description": "QA Automation Framework using Playwright, API Testing, Jenkins and Docker",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archanarajak2024-ux/qa-automation-framework-playwright-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/archanarajak2024-ux/qa-automation-framework-playwright-api/issues"
+  },
+  "homepage": "https://github.com/archanarajak2024-ux/qa-automation-framework-playwright-api#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}
